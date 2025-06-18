@@ -1,4 +1,4 @@
-﻿/*
+/*
 Kirka.io Public Browser CSS
 Made By: NizzQ
 
@@ -83,7 +83,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
 }
 
     .soc-group:nth-child(2):hover {
-        background: none !important;
+        background: transparent !important;
     }
 
 .interface .logo {
@@ -215,11 +215,10 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     right: 111px;
     color: white !important;
     background: transparent !important;
-    border: 4px solid #26335b !important;
 }
 
     #app > div.interface.text-2 > div.play > button:hover {
-        background: #37477c !important;
+        background: transparent !important;
         color: white !important;
     }
 
