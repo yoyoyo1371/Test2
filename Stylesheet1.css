@@ -97,6 +97,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     border-bottom: transparent !important;
     border-left: transparent !important;
     border-right: transparent !important;
+    border-radius: 16px;
 }
 
 #icon-store {
@@ -107,6 +108,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     border-left: transparent !important;
     border-right: transparent !important;
     box-shadow: none !important;
+    border-radius: 16px;
 }
 
 .left-icons .icon-btn:nth-child(1) {
@@ -116,6 +118,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     border-bottom: transparent;
     border-left: transparent !important;
     border-right: transparent !important;
+    border-radius: 16px;
     box-shadow: none;
 }
 
@@ -126,6 +129,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     border-top: transparent;
     border-left: transparent !important;
     border-right: transparent !important;
+    border-radius: 16px;
     box-shadow: none;
 }
 
@@ -136,6 +140,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     border-top: transparent;
     border-left: transparent !important;
     border-right: transparent !important;
+    border-radius: 16px;
     box-shadow: none;
 }
 
@@ -146,6 +151,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     border-top: transparent;
     border-left: transparent !important;
     border-right: transparent !important;
+    border-radius: 16px;
     box-shadow: none;
 }
 
@@ -156,6 +162,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     border-top: transparent;
     border-left: transparent !important;
     border-right: transparent !important;
+    border-radius: 16px;
     box-shadow: none;
 }
 
